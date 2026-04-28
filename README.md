@@ -1,29 +1,52 @@
-# 👋 Hi, I'm Ragax07
+<div align="center">
 
-🎯 Aspiring Software Engineer | Data Science & MERN Enthusiast  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&animation=twinkling" width="100%" />
+
+# Ragax07
+
+### Software Developer · Data Science Enthusiast · MERN Stack Developer
+
+*B.Tech Electronic and Telecommunication student @YCCE Nagpur*
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/Ragax07)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](your-linkedin)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode)](your-link)
+
+</div>
 
 ---
 
 ## 🚀 About Me
-- 💻 Strong in C & C++
-- 🌐 Learning MERN Stack (MongoDB, Express, React, Node.js)
-- 📊 Interested in Data Science & AI/ML
-- 🔧 Good with Git & GitHub workflows
+
+I build **efficient systems, solve real-world problems, and write clean code**.
+
+- 💻 Strong in **C & C++ (DSA, OOP)**
+- 🌐 MERN Stack Developer (Full-stack apps)
+- 📊 Data Science & ML Enthusiast
+- ⚡ Good understanding of **Git & GitHub workflows**
+- 🎯 Focused on **SDE + Data roles**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Languages
+### 👨‍💻 Programming
 - C
 - C++
 - JavaScript
+- Python
 
-### 🌐 Web Development (MERN)
+### 🌐 Web Development
 - MongoDB
 - Express.js
 - React.js
 - Node.js
+
+### 📊 Data & Tools
+- Pandas
+- NumPy
+- Power BI / Tableau
+- Excel
 
 ### ⚙️ Tools
 - Git
@@ -32,35 +55,46 @@
 
 ---
 
-## 📂 Featured Projects
+## 📂 Projects
 
-### 🔹 C / C++ Projects
-- Data Structures Implementation (Linked List, Stack, Queue)
-- File Handling System in C++
-- Mini Compiler / Calculator
+### 🔹 C / C++
+- Data Structures Implementation (Stack, Queue, Linked List)
+- File Management System
+- Problem Solving (LeetCode / DSA)
 
-### 🔹 MERN Projects
-- Full Stack Blog App
-- Task Manager (CRUD App)
+### 🔹 MERN Stack
+- Task Manager App (CRUD + Auth)
+- Blog Application
 - Authentication System (JWT)
 
 ### 🔹 Data Science
-- Data Analysis using Python
-- Visualization Projects
+- Data Analysis Projects
+- Visualization Dashboards
+- ML Basics Projects
 
 ---
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Ragax07&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ragax07&layout=compact&theme=radical)
+## 🎯 Current Focus
+
+- DSA for placements  
+- Building strong MERN projects  
+- Applying ML in real-world problems  
 
 ---
 
-## 🔗 Connect with Me
+## 📫 Connect With Me
+
 - GitHub: https://github.com/Ragax07
-- LinkedIn: [(https://www.linkedin.com/in/raginiraut/](https://www.linkedin.com/in/raginiraut/)
+- LinkedIn: [(add link)](https://www.linkedin.com/in/raginiraut/)
+- Email: raginiraut2006@gmail.com
 
 ---
 
-⭐ “Consistency beats talent. Keep building.”
+<div align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+
+*"Consistency + Projects = Placement"*
+
+</div>
